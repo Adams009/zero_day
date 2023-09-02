@@ -1,2 +1,2 @@
 * my first project
-* on my vagrant terminal
+* on my vagrant termina
